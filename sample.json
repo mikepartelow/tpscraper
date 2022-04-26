@@ -1,0 +1,65 @@
+{
+    "limit": 1,
+    "offset": 0,
+    "totalNumberOfItems": 220,
+    "items": [
+        {
+            "item": {
+                "id": 77652967,
+                "title": "Mmm...Skyscraper I Love You",
+                "duration": 790,
+                "replayGain": -7.08,
+                "peak": 0.998505,
+                "allowStreaming": true,
+                "streamReady": true,
+                "streamStartDate": "2014-10-07T00:00:00.000+0000",
+                "premiumStreamingOnly": false,
+                "trackNumber": 2,
+                "volumeNumber": 1,
+                "version": "Remastered",
+                "popularity": 8,
+                "copyright": "℗ 2014 Smith Hyde Productions, under exclusive licence to Universal Music Operations Ltd.",
+                "description": null,
+                "url": "http://www.tidal.com/track/77652967",
+                "isrc": "UK7EF1400002",
+                "editable": false,
+                "explicit": false,
+                "audioQuality": "HI_RES",
+                "audioModes": [
+                    "STEREO"
+                ],
+                "artist": {
+                    "id": 3529069,
+                    "name": "Underworld",
+                    "type": "MAIN",
+                    "picture": "cb610066-ee75-45e3-beea-d7b84e7bfa80"
+                },
+                "artists": [
+                    {
+                        "id": 3529069,
+                        "name": "Underworld",
+                        "type": "MAIN",
+                        "picture": "cb610066-ee75-45e3-beea-d7b84e7bfa80"
+                    }
+                ],
+                "album": {
+                    "id": 77652965,
+                    "title": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
+                    "cover": "36023b65-e3bb-4712-968b-9cfcf8ab3fb6",
+                    "vibrantColor": "#FFFFFF",
+                    "videoCover": null,
+                    "releaseDate": "1994-01-24"
+                },
+                "mixes": {
+                    "MASTER_TRACK_MIX": "014649b6ce78f70374aba5b8c6d865",
+                    "TRACK_MIX": "0018941302e5a5ed943790aa51531c"
+                },
+                "dateAdded": "2022-01-31T18:23:13.699+0000",
+                "index": 100000,
+                "itemUuid": "2d57e95e-559a-405e-92f7-ca2758f84c69"
+            },
+            "type": "track",
+            "cut": null
+        }
+    ]
+}
